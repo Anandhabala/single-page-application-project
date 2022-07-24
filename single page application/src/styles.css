@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#tanand {
+  border-style: dotted;
+  color: gold;
+  background-color: black;
+  border-radius: 50px;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+#images {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 50px;
+  padding: 30px;
+}
